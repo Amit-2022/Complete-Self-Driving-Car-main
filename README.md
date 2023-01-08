@@ -22,7 +22,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Complete-Self-Driving-Car.git
+https://github.com/Amit-2022/Complete-Self-Driving-Car-main.git
 ```
 
 ## STEP 02: 
@@ -54,8 +54,7 @@ Now open your simulator in Autonomous mood & run yes!!🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
+Author: Amit
 Data Scientist
-Email: entbappy73@gmail.com
 ```
 
